@@ -1,24 +1,25 @@
-# README for **COSPAR_JWST_UVIT_CHRIST**
 
-## “A Hands‑on Workshop with JWST & UVIT”
+# COSPAR Capacity Building Hands‑on Workshop with JWST & UVIT
 
-Organised by the Committee on Space Research (COSPAR) in collaboration with Christ (Deemed to be University), Bengaluru
+Organised by the Committee on Space Research (COSPAR) in collaboration with CHRIST (Deemed to be University), Bengaluru
+
 Date: **20–31 October 2025**
+
 Venue: Department of Physics & Electronics, Centre of Excellence in Astronomy & Astrophysics, Christ University, Bengaluru
 
 ---
 
 ## 1. Overview
 
-This repository contains materials from the COSPAR Capacity Building Workshop titled *“A Hands-on Workshop with JWST & UVIT”*, held at Christ (Deemed to be University), Bengaluru from **20–31 October 2025**.
+This repository contains materials from the COSPAR Capacity Building Hands‑on Workshop titled *“A Hands-on Workshop with JWST & UVIT”*, held at CHRIST (Deemed to be University), Bengaluru from **20–31 October 2025**.
 
-This two-week workshop provided researchers, faculty members, postdoctoral fellows, PhD scholars, and master's students from Asia and surrounding regions with practical experience in astrophysical research using data from the James Webb Space Telescope (JWST) and the Ultra Violet Imaging Telescope (UVIT). The event featured expert lectures, intensive tutorials, interactive projects, and collaborative exercises, empowering participants to effectively utilize public JWST and UVIT datasets for advanced astrophysical research. ([cosparindia2025.christuniversity.in](https://cosparindia2025.christuniversity.in/home))
+This two-week workshop provided researchers, faculty members, postdoctoral fellows, PhD scholars, and master's students from South East Asia and surrounding regions with practical experience in astrophysical research using data from the James Webb Space Telescope (JWST) and the Ultra Violet Imaging Telescope (UVIT). The event featured expert lectures, intensive tutorials, interactive projects, and collaborative exercises, empowering participants to effectively utilize public JWST and UVIT datasets for advanced astrophysical research. ([cosparindia2025.christuniversity.in](https://cosparindia2025.christuniversity.in/home))
 
 ---
 
 ## 2. Workshop Structure
 
-* **Week 1**: Detailed lectures on JWST and UVIT science drivers, instrument characteristics, and observational techniques along with interactive, hands-on sessions on data retrieval, processing, analysis, and modeling with JWST and UVIT datasets, 
+* **Week 1**: Detailed lectures on JWST and UVIT science drivers, instrument characteristics, and observational techniques along with interactive, hands-on sessions on data retrieval, processing, analysis, and modeling with JWST and UVIT datasets.
 * **Week 2**: Participant-driven research projects.
 
 Participants were selected based on proficiency in astronomy and Python programming to ensure meaningful scientific engagement.
@@ -30,7 +31,6 @@ Participants were selected based on proficiency in astronomy and Python programm
 The workshop featured lectures and mentorship by the following experts:
 
 * Prof Annapurni Subramaniam (Indian Institute of Astrophysics, Bengaluru)
-* Dr Themiya Nanayakkara (Swinburne University of Technology, Australia)
 * Dr Isabel Rebollido (European Space Agency [ESAC], Madrid)
 * Dr Stacey Alberts (STScI, Baltimore)
 * Dr Javier Álvarez (Centro de Astrobiología [CAB], Madrid)
@@ -45,6 +45,7 @@ The workshop featured lectures and mentorship by the following experts:
 * Dr Nimisha Kumari (STScI, Baltimore)
 * Prof. Karl Glazebrook (Swinburne University of Technology, Australia)
 * Dr Netra S Pillai (URSC, Indian Space Research Organisation, Bangalore)
+* Dr Themiya Nanayakkara (Swinburne University of Technology, Australia)
 
 
 ---
